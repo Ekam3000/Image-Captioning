@@ -2,7 +2,8 @@
 generating  caption for an image
 The Goal of this project is to generate a caption for a image
 
-![problem_statement](https://github.com/Ekam3000/image-captioning/assets/86596600/ca26e7b6-5579-4091-8c42-e14b33f7a79a)
+![problem_statement](https://github.com/Ekam3000/Image-captioning/assets/86596600/c75769dd-80cb-4aaf-8f31-a49ed4d663b0)
+
 
 # Prerequisites
 NLP,CNN,RNN,Lots of preprocesing,Language model ,word Embedding and Transfer learning.
@@ -26,4 +27,4 @@ Datset link :
 just run app.py file , by typing python app.py in the current directory 
 # result of one of the image from my model
 
-![prediction_result](https://github.com/Ekam3000/image-captioning/assets/86596600/64026611-0968-46b1-896a-afbb1f290ffd)
+![prediction_result](https://github.com/Ekam3000/Image-captioning/assets/86596600/8ed5fc08-339b-462e-b1e7-e025a7653b12)
