@@ -1,0 +1,3 @@
+https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+
+https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download
