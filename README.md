@@ -28,3 +28,5 @@ just run app.py file , by typing python app.py in the current directory
 # result of one of the image from my model
 
 ![prediction_result](https://github.com/Ekam3000/Image-captioning/assets/86596600/8ed5fc08-339b-462e-b1e7-e025a7653b12)
+![Screenshot (1596)](https://github.com/Ekam3000/Image-captioning/assets/86596600/43fc002c-0f96-460b-99b1-3e7ec62c9d0b)
+![Screenshot (1597)](https://github.com/Ekam3000/Image-captioning/assets/86596600/5120f24b-cae3-47e3-980a-8096b6643526)
